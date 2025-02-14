@@ -31,7 +31,7 @@ export default function Home() {
         <Card className="p-6 bg-gray-800 text-white border-0">
           <Settings className="w-12 h-12 text-blue-600 mx-auto" />
           <CardContent>
-            <h2 className="text-2xl font-semibold mt-4">Customization</h2>
+            <h2 className="text-2xl font-semibold mt-4">High Customization</h2>
             <p className="text-gray-400 mt-2">Tailor your experience with powerful settings and tools.</p>
           </CardContent>
         </Card>
